@@ -1,0 +1,6 @@
+{
+  "name": "SIPKA-AI BPKAD Kab. Sidoarjo",
+  "description": "Solusi Pintar Kepegawaian ASN BPKAD Kabupaten Sidoarjo — Portal layanan konsultasi regulasi kepegawaian berbasis RAG, manajemen pengetahuan, dan analitik eksekutif.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
